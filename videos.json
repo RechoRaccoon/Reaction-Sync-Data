@@ -1,1 +1,38 @@
-{}
+{
+  "NCNt03qe0DM": {
+    "isNonReaction": false,
+    "headerText": null,
+    "sources": [
+      {
+        "sourceId": "-rlM-eW_QXc",
+        "sourceUrl": "https://youtu.be/-rlM-eW_QXc?si=dbkNi29Cwad7U1Rd",
+        "isYouTube": true,
+        "title": "Source 1",
+        "layout": "reaction-left",
+        "openAt": 34,
+        "playAt": 43,
+        "closeAt": null,
+        "pauses": [
+          {
+            "start": 48,
+            "end": 50
+          }
+        ],
+        "seekOverrides": []
+      },
+      {
+        "sourceId": null,
+        "sourceUrl": "https://www.tiktok.com/@rechoraccoon/video/7617272954791005454",
+        "isYouTube": false,
+        "title": "Source 2",
+        "layout": "reaction-left",
+        "openAt": 73,
+        "playAt": 73,
+        "closeAt": 90,
+        "pauses": [],
+        "seekOverrides": []
+      }
+    ],
+    "infoBlocks": []
+  }
+}
