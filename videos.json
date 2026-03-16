@@ -1,0 +1,103 @@
+{
+  "PTpzFk8z0Vs": {
+    "isNonReaction": false,
+    "headerText": null,
+    "sources": [
+      {
+        "sourceId": "-rlM-eW_QXc",
+        "sourceUrl": "https://youtu.be/-rlM-eW_QXc?si=Oue6t6KTJnvlcO9U",
+        "isYouTube": true,
+        "title": "Source 1",
+        "layout": "reaction-right",
+        "openAt": 38,
+        "playAt": 57,
+        "closeAt": null,
+        "pauses": [
+          {
+            "start": 69,
+            "end": 71
+          }
+        ],
+        "seekOverrides": []
+      },
+      {
+        "sourceId": "j2rszuZ-9PY",
+        "sourceUrl": "https://youtu.be/j2rszuZ-9PY?si=VrOSQR5rrrY3LCO3",
+        "isYouTube": true,
+        "title": "Source 2",
+        "layout": "reaction-right",
+        "openAt": 81,
+        "playAt": 81,
+        "closeAt": null,
+        "pauses": [],
+        "seekOverrides": []
+      },
+      {
+        "sourceId": "Ie57fr8pCko",
+        "sourceUrl": "https://youtu.be/Ie57fr8pCko?si=j54AZ8l7IAQo-Jca",
+        "isYouTube": true,
+        "title": "Source 3",
+        "layout": "reaction-right",
+        "openAt": 95,
+        "playAt": 95,
+        "closeAt": 105,
+        "pauses": [],
+        "seekOverrides": []
+      }
+    ],
+    "infoBlocks": [
+      {
+        "title": "Fun Fact!",
+        "body": "Raccoon's are adorable!"
+      }
+    ]
+  },
+  "-rlM-eW_QXc": {
+    "isNonReaction": false,
+    "headerText": "Recho reacts to these videos:",
+    "sources": [
+      {
+        "sourceId": "Z0zuOjDnX0U",
+        "sourceUrl": "https://youtu.be/Z0zuOjDnX0U?si=tKdeqCcZHMxygIjq",
+        "isYouTube": true,
+        "title": "Source 1",
+        "layout": "reaction-left",
+        "openAt": 10,
+        "playAt": 15,
+        "closeAt": null,
+        "pauses": [],
+        "seekOverrides": []
+      },
+      {
+        "sourceId": null,
+        "sourceUrl": "https://www.tiktok.com/@rechoraccoon/video/7617272954791005454",
+        "isYouTube": false,
+        "title": "Source 2",
+        "layout": "reaction-left",
+        "openAt": 20,
+        "playAt": 30,
+        "closeAt": 40,
+        "pauses": [],
+        "seekOverrides": []
+      },
+      {
+        "sourceId": null,
+        "sourceUrl": "https://bsky.app/profile/rechoraccoon.bsky.social/post/3mgiom2i6u22l",
+        "isYouTube": false,
+        "title": "Source 3",
+        "layout": "reaction-right",
+        "openAt": 50,
+        "playAt": 59,
+        "closeAt": null,
+        "pauses": [],
+        "seekOverrides": []
+      }
+    ],
+    "infoBlocks": [
+      {
+        "title": "Multi Platform Reaction Test",
+        "body": "Yeah"
+      }
+    ]
+  }
+}
